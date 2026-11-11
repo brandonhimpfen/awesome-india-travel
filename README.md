@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in India, covering official tourism portals, rail networks, digital payments, regional heritage guides, and safety systems.
 
+India is a diverse South Asian destination encompassing ancient spiritual heritage, majestic architectural monuments, bustling metropolitan hubs, and varied regional landscapes. This list is intended for cultural travelers, architectural historians, spiritual explorers, and adventurous road-trippers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
